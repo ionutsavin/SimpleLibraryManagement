@@ -30,3 +30,7 @@ taskkill /pid <PID> /f
 - Gradle
 - Swagger for API documentation
 - JUnit for testing
+
+
+## Documentation using Swagger
+![335134926-4b32a432-cc9c-49f5-aedf-d80510a88f8e](https://github.com/user-attachments/assets/54bb3675-91b3-44c8-bc0a-5540a8e3a8e5)
